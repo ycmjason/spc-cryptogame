@@ -282,12 +282,12 @@ z: 0.1</tt>");
 		<input type="reset" onmouseup="changeguess();$('.guess').html('&nbsp;');" />
 
 </form>
-<form>
+<!--form>
 Make a challenge to your friends!<br />
 <textarea id="textc" rows="6" cols="50"></textarea><br />
 <input type="button" value="Send" onClick="generateurl();" />
 <div id="generatec">&nbsp;</div>
-</form>
+</form-->
 		<div style="margin-top:50px">
 		<form name="form">
 		Make Your Own Encrypted Text!<br />
